@@ -2,9 +2,9 @@
 
 > Personal progress page for CSCI4208. Keep this file updated as you complete labs, projects, and capstone milestones.
 
-- **Name:** <Your Name>
-- **Project Board (Project v2):** <paste your board URL here>
-- **Live Portfolio (GitHub Pages):** <https://USERNAME.github.io/REPO/>
+- **Name:** Iker Santana
+- **Project Board (Project v2):** https://github.com/users/IkerAlessandro/projects/6 
+- **Live Portfolio (GitHub Pages):** <>
 
 ---
 
