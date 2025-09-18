@@ -4,7 +4,7 @@
 
 - **Name:** Iker Santana
 - **Project Board (Project v2):** https://github.com/users/IkerAlessandro/projects/6 
-- **Live Portfolio (GitHub Pages):** <>
+- **Live Portfolio (GitHub Pages):** https://ikeralessandro.github.io/csci4208-portfolio-2025/
 
 ---
 
