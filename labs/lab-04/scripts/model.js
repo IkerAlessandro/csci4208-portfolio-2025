@@ -2,7 +2,6 @@ const passcode = Math.floor(Math.random() * 1000);
 let time = 30;
 let gameOver = false;
 const guesser = new Guesser();
-console.log(passcode)
 main();
 
 function main() {
