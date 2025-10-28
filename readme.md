@@ -30,7 +30,7 @@
 | Lab-01 — HTML-first Interactive Game (minimal JS) [#1](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/1) | `lab-01` | closed |
 | Lab-02 — CSS: Crash Course [#2](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/2) | `lab-02` | closed |
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/3) | `lab-03` | closed |
-| Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/6) | `lab-04` | open |
+| Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/6) | `lab-04` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#29](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/29) | `lab-05` | open |
 | Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/10) | `lab-06` | open |
 | Lab-07 — Browser Data Layer: Mock Document DB [#28](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/28) | `lab-07` | open |
