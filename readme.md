@@ -32,13 +32,13 @@
 | Lab-03 — Bootstrap: Responsive Portfolio [#3](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/3) | `lab-03` | closed |
 | Lab-04 — JavaScript Basics: Hi–Lo Game (MVP → MVC) [#6](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/6) | `lab-04` | closed |
 | Lab-05 — JavaScript OOP + Phaser: Dodger Game [#29](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/29) | `lab-05` | open |
-| Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/10) | `lab-06` | open |
-| Lab-07 — Browser Data Layer: Mock Document DB [#28](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/28) | `lab-07` | open |
+| Lab-06 — REST Client: Quiz Game + Leaderboard (Modules + Fetch) [#10](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/10) | `lab-06` | closed |
+| Lab-07 — Browser Data Layer: Mock Document DB [#28](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/28) | `lab-07` | closed |
 | Project-0 — Set up Repo, Project Board, Actions & Pages [#8](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/8) | `project-00` | approved |
 | Project-01 — Interactive Game in HTML & CSS [#4](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/4) | `project-01` | closed |
-| Project-02 — Sprint 3: Full Feature Set & Polish [#13](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/13) | `project-02` | open |
-| Project-02 — Sprint 2: MVP Vertical Slice [#12](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/12) | `project-02` | open |
-| Project-02 — Sprint 1: Pitch & Roadmap Proposal [#11](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/11) | `project-02` | open |
+| Project-02 — Sprint 3: Full Feature Set & Polish [#13](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/13) | `project-02` | closed |
+| Project-02 — Sprint 2: MVP Vertical Slice [#12](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/12) | `project-02` | closed |
+| Project-02 — Sprint 1: Pitch & Roadmap Proposal [#11](https://github.com/IkerAlessandro/csci4208-portfolio-2025/issues/11) | `project-02` | closed |
 <!-- STATUS:END -->
 
 
